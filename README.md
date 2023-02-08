@@ -1,6 +1,7 @@
 # DE-Zoomcamp
-# Notes
 
-Below you will find links to the notes for each lesson.
+This repo contains homework and notes for the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) by [Datatalks.Club](https://datatalks.club/).
 
-* [Lesson 1: Introduction to Data Engineering](1_intro.md)
+* [Notes for the course.](notes/README.md)
+* [Final project](https://github.com/ziritrion/dataeng-zoomcamp/tree/main/7_project)
+
